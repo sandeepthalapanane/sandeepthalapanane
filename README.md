@@ -17,7 +17,7 @@
 - I Enjoy designing and developing robotic systems
 - Currently learning Artificial Intelligence and Machine learning
 - Portfolio [link](https://sandeepthalapanane.github.io/)
-- I am actively looking for Summer Internships (2023) in the Robotics field., this is [my resume](https://drive.google.com/uc?export=download&id=1BCyLFaFFBENVkDywaZnvMSsP6EqhnK4J)
+- I am actively looking for Summer Internships (2023) in the Robotics field, this is [my resume](https://drive.google.com/uc?export=download&id=1BCyLFaFFBENVkDywaZnvMSsP6EqhnK4J)
 
 <br><br>
 
@@ -30,7 +30,6 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
@@ -116,6 +115,5 @@
 <br>
 <br>
 <br>
-
 
 </div>
