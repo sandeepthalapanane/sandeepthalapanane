@@ -14,8 +14,8 @@
 
 <br>
 
-- I Enjoy designing and developing robotic systems
-- Currently learning Artificial Intelligence and Machine learning
+- Currently pursuing a Master’s degree in Robotics at the University of Maryland, College Park
+- At Present, learning Artificial Intelligence and Machine learning
 - Portfolio [link](https://sandeepthalapanane.github.io/)
 - I am actively looking for Summer Internships (2023) in the Robotics field, this is [my resume](https://drive.google.com/uc?export=download&id=1BCyLFaFFBENVkDywaZnvMSsP6EqhnK4J)
 
