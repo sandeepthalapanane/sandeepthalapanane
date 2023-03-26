@@ -1,12 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Sandeep Thalapanane </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-
 <br>
-
-
-
 	
 ## <picture><img src = "https://github.com/sandeepthalapanane/sandeepthalapanane/blob/main/about_me.gif" width = 50px></picture> **About me**
 
@@ -14,14 +9,14 @@
 
 <br>
 
-- Currently pursuing a Master’s degree in Robotics at the University of Maryland, College Park
-- At Present, learning Artificial Intelligence and Machine learning
+- Currently pursuing a Master’s degree in Robotics at the University of Maryland
+- At present, learning Artificial Intelligence and Machine learning
 - Portfolio [link](https://sandeepthalapanane.github.io/)
-- I am actively looking for Summer Internships (2023) in the Robotics field, this is [my resume](https://drive.google.com/uc?export=download&id=1BCyLFaFFBENVkDywaZnvMSsP6EqhnK4J)
+- Actively looking for Summer Internships (2023) in the Robotics field, this is [my resume](https://drive.google.com/uc?export=download&id=1BCyLFaFFBENVkDywaZnvMSsP6EqhnK4J)
 
-<br><br>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -57,12 +52,8 @@
 
 </p>
 
-<br>
-<br>
-
 -----
 
-<br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -78,13 +69,9 @@
 </div>
 
 <br>
-<br>
-<br>
 
 -----
 
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/sandeepthalapanane/sandeepthalapanane/blob/main/handshake.gif" width ="80">
 <br>
@@ -112,8 +99,5 @@
 
 <br>
 <img src="https://github.com/sandeepthalapanane/sandeepthalapanane/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
 
 </div>
