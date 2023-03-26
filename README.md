@@ -5,7 +5,7 @@
 	
 ## <picture><img src = "https://github.com/sandeepthalapanane/sandeepthalapanane/blob/main/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/sandeepthalapanane/sandeepthalapanane/blob/main/handshake.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/sandeepthalapanane/sandeepthalapanane/blob/main/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -41,7 +41,6 @@
     ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
     ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
     ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
